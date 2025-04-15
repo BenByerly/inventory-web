@@ -89,4 +89,3 @@ const styles = {
 };
 
 export default LoginPage;
-
